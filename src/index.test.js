@@ -7,8 +7,8 @@ describe('Our first test', () => {
         expect(true).to.equal(true);
     });
 });
-
-/* describe('index.html', () => {
+/*
+describe('index.html', () => {
     it('should have h1 that says Users', (done) => {
         const index = fs.readFileSync('./src/index.html', "utf-8");
         jsdom.env(index, function(err, window) {
@@ -18,5 +18,5 @@ describe('Our first test', () => {
             window.close();
         });
     })
-})
- */
+});
+*/
